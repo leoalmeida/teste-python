@@ -1,0 +1,18 @@
+Com base na avaliação de 'Possível Fraude' para a transação citada e considerando os detalhes apresentados, minha recomendação é:
+
+Ação Recomendada: Acionar setor Anti-Fraude e Realizar Verificação Manual.
+
+Jason: 
+Por favor, acione nossa equipe de anti-fraude e realize uma verificação manual na transação "9c". Os detalhes incluem um estabelecimento de "Esporte C" com uma compra de "Artigo Esportivo" por "R$1103,00". A transação ocorreu em "Porto Alegre - RS (Brasil)" em "2023-11-21 21:53:28". O parecer sugere que há uma forte possibilidade de ser um caso de fraude, possivelmente devido a gastos excessivos, localização incomum ou compra de itens de alto valor. Isso requer sua atenção imediata.
+
+Classificação de Fraude (se aplicável): Fraude de Compra - o alto valor da compra, o fato de ser um artigo esportivo (comum em fraudes de cartão de crédito) e o horário da transação poderiam indicar uma tentativa de fraude. Por favor, investigar imediatamente.
+
+Adicionalmente, sugiro: Notificar Cliente.
+
+Jason: 
+Paralelamente, solicito que notifique o cliente sobre a atividade suspeita em sua conta. Por favor, informe que a transação foi marcada para revisão devido à atividades atípicas. Assegure ao cliente que estamos investigando e tomaremos todas as medidas necessárias para proteger sua conta.
+
+Por favor, execute estas ações imediatamente e informe-me sobre o progresso das investigações. 
+
+Cordialmente,
+[Seu nome]
